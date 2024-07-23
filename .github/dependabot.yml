@@ -1,0 +1,15 @@
+version: 2
+updates:
+  # Configuration for npm
+  - package-ecosystem: "npm"
+    directory: "/" # Location of the package.json file
+    schedule:
+      interval: "daily" # Check for updates daily
+    open-pull-requests-limit: 5 # Limit the number of open pull requests
+
+  # Configuration for yarn
+  - package-ecosystem: "yarn"
+    directory: "/" # Location of the yarn.lock file
+    schedule:
+      interval: "daily" # Check for updates daily
+    open-pull-requests-limit: 5 # Limit the number of open pull requests

@@ -1,15 +1,7 @@
 version: 2
 updates:
-  # Configuration for npm
-  - package-ecosystem: "npm"
-    directory: "/" # Location of the package.json file
+  - package-ecosystem: "npm" # Use npm to update both npm and yarn dependencies
+    directory: "/" # Directory containing package.json and yarn.lock
     schedule:
       interval: "daily" # Check for updates daily
-    open-pull-requests-limit: 5 # Limit the number of open pull requests
-
-  # Configuration for yarn
-  - package-ecosystem: "yarn"
-    directory: "/" # Location of the yarn.lock file
-    schedule:
-      interval: "daily" # Check for updates daily
-    open-pull-requests-limit: 5 # Limit the number of open pull requests
+    open-pull-requests-limit: 5 # Limit to 5 open PRs

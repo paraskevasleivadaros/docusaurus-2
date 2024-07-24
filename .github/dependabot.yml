@@ -3,5 +3,5 @@ updates:
   - package-ecosystem: "npm" # Use npm to update both npm and yarn dependencies
     directory: "/" # Directory containing package.json and yarn.lock
     schedule:
-      interval: "daily" # Check for updates daily
-    open-pull-requests-limit: 5 # Limit to 5 open PRs
+      interval: "monthly" # Check for updates daily
+    open-pull-requests-limit: 10 # Limit to 10 open PRs

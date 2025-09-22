@@ -5,7 +5,7 @@ authors: [paraskevasleivadaros]
 tags: [cloud computing ☁️, professional growth 📚, future of technology 💻]
 ---
 
-![CloudDigitalleader-v4](https://github.com/paraskevasleivadaros/paraskevasleivadaros.github.io/assets/16403754/0f626d78-0193-4362-823e-dd6a3d5c37db)
+![CloudDigitalleader-v4](/img/blog/cloud-digital-leader-v4.gif)
 
 Thrilled to share I've passed the Google Cloud Digital Leader exam again! This achievement 🏆 isn't just about mastering cloud tech but also marks a step forward in my cloud computing journey.
 

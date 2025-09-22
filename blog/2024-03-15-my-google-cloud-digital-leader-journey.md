@@ -15,4 +15,6 @@ Preparing for this beta exam was a unique challenge, given its fresh content and
 
 Achieving this certification again reinforces my dedication to staying at the forefront of cloud technology and sharing my journey and insights with you all through my blog and website. Let's continue exploring the cloud together! ☁️✨
 
-<a href="https://credential.net/60d66669-e72c-42f4-9529-7325ca5e2291" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://img.shields.io/badge/Credential-0077B5?style=for-the-badge&logo=certificate&logoColor=white" class="img_ev3q"></a>
+<a href="https://credential.net/60d66669-e72c-42f4-9529-7325ca5e2291" target="_blank" rel="noopener noreferrer">
+  <img loading="lazy" src="https://img.shields.io/badge/Credential-0077B5?style=for-the-badge&logo=certificate&logoColor=white" className="img_ev3q" />
+</a>

@@ -40,7 +40,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  /* Dark theme (from portfolio) */
+  /* Dark theme (from portfolio, adjusted for white text) */
   --ifm-color-primary: #90a0d9;
   --ifm-color-primary-dark: #7e8fcf;
   --ifm-color-primary-darker: #707fc7;
@@ -49,7 +49,7 @@
   --ifm-color-primary-lighter: #adbbee;
   --ifm-color-primary-lightest: #c2d0f7;
 
-  --ifm-font-color-base: #bdbddd;
+  --ifm-font-color-base: #ffffff;   /* changed from #bdbddd */
   --ifm-font-color-secondary: #cdcdff;
   --ifm-background-color: #23283e;
   --ifm-background-surface-color: #2a2f4c;

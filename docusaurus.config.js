@@ -119,7 +119,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2024 - ${new Date().getFullYear()} Paraskevas Leivadaros - Built with Docusaurus.`,
+        copyright: `Copyright © 2024 - ${new Date().getFullYear()} Paraskevas Leivadaros - Built with Docusaurus`,
       },
       prism: {
         theme: lightCodeTheme,

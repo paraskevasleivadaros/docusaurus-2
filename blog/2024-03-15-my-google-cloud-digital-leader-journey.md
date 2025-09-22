@@ -1,7 +1,7 @@
 ---
 slug: my-google-cloud-digital-leader-journey
 title: My Google Cloud Digital Leader Journey
-authos: [paraskevasleivadaros]
+authors: [paraskevasleivadaros]
 tags: [cloud computing ☁️, professional growth 📚, future of technology 💻]
 ---
 

@@ -72,7 +72,7 @@ const config = {
           //   label: 'Tutorial',
           // },
           {to: '/projects', label: 'Projects', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'right'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',

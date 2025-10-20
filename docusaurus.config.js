@@ -71,7 +71,7 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          {to: '/projects', label: 'Projects', position: 'left'},
+          //{to: '/projects', label: 'Projects', position: 'left'},
           {to: '/docs/paraskevas-leivadaros-resume.pdf', label: 'Resume', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'right'},
           // {

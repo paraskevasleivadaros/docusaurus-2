@@ -8432,12 +8432,12 @@ svgo@^3.0.2, svgo@^3.2.0:
     picocolors "^1.0.0"
 
 swr@^2.2.5:
-  version "2.3.6"
-  resolved "https://registry.yarnpkg.com/swr/-/swr-2.3.6.tgz#5fee0ee8a0762a16871ee371075cb09422b64f50"
-  integrity sha512-wfHRmHWk/isGNMwlLGlZX5Gzz/uTgo0o2IRuTMcf4CPuPFJZlq0rDaKUx+ozB5nBOReNV1kiOyzMfj+MBMikLw==
+  version "2.3.8"
+  resolved "https://registry.yarnpkg.com/swr/-/swr-2.3.8.tgz#aa15596321a34e575226a60576bade0b57adf7bf"
+  integrity sha512-gaCPRVoMq8WGDcWj9p4YWzCMPHzE0WNl6W8ADIx9c3JBEIdMkJGMzW+uzXvxHMltwcYACr9jP+32H8/hgwMR7w==
   dependencies:
     dequal "^2.0.3"
-    use-sync-external-store "^1.4.0"
+    use-sync-external-store "^1.6.0"
 
 tapable@^2.0.0, tapable@^2.2.0, tapable@^2.2.1, tapable@^2.3.0:
   version "2.3.0"
@@ -8714,7 +8714,7 @@ url-loader@^4.1.1:
     mime-types "^2.1.27"
     schema-utils "^3.0.0"
 
-use-sync-external-store@^1.4.0:
+use-sync-external-store@^1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/use-sync-external-store/-/use-sync-external-store-1.6.0.tgz#b174bfa65cb2b526732d9f2ac0a408027876f32d"
   integrity sha512-Pp6GSwGP/NrPIrxVFAIkOQeyw8lFenOHijQWkUTrDvrF4ALqylP2C/KCkeS9dpUM3KvYRQhna5vt7IL95+ZQ9w==
